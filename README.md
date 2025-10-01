@@ -21,10 +21,10 @@ If you’d like to try out these programs yourself-
 
 
 I’m using this repo to
-1.Strengthen my fundamentals in C
-2.Document my progress in programming
-3.Create a reference I can revisit later
-4.Share my learning journey with others
+ 1.Strengthen my fundamentals in C
+ 2.Document my progress in programming
+ 3.Create a reference I can revisit later
+ 4.Share my learning journey with others
 
 
 This is primarily a personal learning repo, but if you spot mistakes or have suggestions, feel free to open an issue or submit a pull request. Feedback is always welcome.
